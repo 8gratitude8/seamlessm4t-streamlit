@@ -1,3 +1,4 @@
 fairseq2
 pydub
 yt-dlp
+libsndfile
